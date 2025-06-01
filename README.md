@@ -183,7 +183,7 @@ These tools are used for:
 ![Application](./assets/app_display1.png)
 
 
-![Application](./assets/app_display2.png) 
+![UI](./assets/ui.png) 
 
 ---
 
